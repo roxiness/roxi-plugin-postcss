@@ -1,0 +1,14 @@
+{
+  "name": "@roxi/plugin-postcss",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jakobrosenberg@gmail.com",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "svelte-preprocess": "^4.0.10",
+    "@roxi/plugin-preprocess": "^1.0.0"
+  }
+}
